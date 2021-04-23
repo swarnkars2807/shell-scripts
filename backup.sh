@@ -4,7 +4,7 @@ PORT="27017" # default mongoDb port is 27017
 USERNAME=""
 PASSWORD=""
 # Set backup path where you want to store database backup
-BACKUP_PATH="Document/mongo/backup/"
+BACKUP_PATH="Documents/mongo/backup/"
 
 echo "\n ========================================================================================================= \n"
 echo " BACKUP PATH : ${BACKUP_PATH} \n"
